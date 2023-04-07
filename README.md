@@ -2,5 +2,12 @@
 
 ## Created a environment
 ...
+conda create -p venv python==3.8
 
+conda activate venv/
 ...
+
+##install all libraries
+...
+
+pip install -r requirements.txt
